@@ -1,4 +1,4 @@
 # C_language
-This is my frist code
+This is my frist project
 <br>
 Author_Rohan patil
